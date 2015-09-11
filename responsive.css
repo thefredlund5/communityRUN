@@ -1,0 +1,42 @@
+@media (min-width: 0px) and (max-width: 320px) {
+#about-para {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 75%;
+    padding: 5%;
+    color: #EEC217;
+  }
+
+
+}
+
+@media (min-width: 420px) {
+#about-para {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 80%;
+    padding: 5%;
+    color: #EEC217;
+  }
+
+}
+
+@media (min-width : 768px) {
+#about-para {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 100%;
+    padding: 5%;
+    color: #EEC217;
+  }
+}
+
+@media (min-width : 1350px) {
+#about-para {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 125%;
+    padding: 5%;
+    color: #EEC217;
+  }
+}
